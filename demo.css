@@ -1,0 +1,100 @@
+*{
+    padding: opx;
+margin: 0px;
+}
+.header{
+    height: 75px;
+    width: 100%;
+    float: left;
+    background-color: aqua;
+}
+.box_img{
+    height: 100%;
+    width: 15%;
+    float: left;
+}
+.box_img img{
+    margin-top: 30px;
+    margin-left:50px ;
+    float: left;
+}
+.list{
+    float: left;
+    height: 100%;
+    width: 70%;
+}
+.list ul li{
+    display: inline; 
+    padding: 40px; 
+    font-size: 20px;
+    font-style: arial;
+    font-weight: bold;
+}
+.list ul{
+    margin-top: 20px;
+    margin-left: 10%;
+}
+.list li:hover{
+    color: brown;
+    
+}
+.btn{
+    height: 100%;
+    width: 15%;
+    float: left;
+}
+.btn button{
+    height: 40px;
+    width: 120px;
+    font-size: 19px;
+    font-weight: bold;
+    margin-top: 20px;
+margin-left:30px ;
+border-radius: 5px;
+background-color: aqua;
+
+}
+.btn button:hover{
+    color:white;
+background-color: black;
+}
+.body{
+    height: 640px;
+    width: 40%;
+    float: left;
+}
+.body2
+{
+    height: 640px;
+    width: 60%;
+    float: left;
+}
+.body img{
+    height: 100%;
+    margin-left:50px ;
+
+}
+.body2{
+    text-align: center;
+}
+.body2 p{
+margin-top: 150px;
+font-size: 45px;
+
+}
+.body2 h1{
+    font-size: 50px;
+}
+.body2 button{
+    height: 35px;
+    width: 150px;
+    background-color: blue;
+    color: white;
+    border-radius: 5px;
+
+
+}
+.body2 button:hover{
+    color: brown;
+    background-color: yellow;
+}
